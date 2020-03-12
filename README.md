@@ -6,7 +6,9 @@ Vim's plugins used and info on i3wm
 
 ## Fonts used
 System San Francisco Display 10
+
 Droid Sans Mono For Powerline 10
+
 Powerline Font
 ``` 
 Will consider using Nerdfont pack for convinient tho
