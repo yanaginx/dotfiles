@@ -1,8 +1,7 @@
 # Ubuntu 18.04 dotfiles infomation
 Vim's plugins used and info on i3wm
 
-![alt text](https://github.com/shinyo-dc/dotfiles/blob/master/picture.png
-"wallpaper")
+![alt-text](https://raw.githubusercontent.com/shinyo-dc/dotfiles/master/picture.png "wallpaper")
 
 ## Fonts used
 System San Francisco Display 10
